@@ -1,4 +1,4 @@
-# Iolera Introduction
+# Introduction
 
 Iolera is dedicated to the creation of human data using non-classical electromagnetics.
 
