@@ -12,7 +12,7 @@ Such dataset creation is valuable for a number of reasons. It:
 
 Each product has two repositories, one public and one private.
 The product name is the working name, not necessarily reflecting the market name or model of the product.
-The private repo associated with a public repo has a `_p` appended to its name.
+The private repo associated with a public repo has a `-p` appended to its name.
 
 Public repositories contain:
 
@@ -26,7 +26,7 @@ Private repositories contain:
 
 - Everything else
 
-Working names for Iolera products are based on tree names, such as Acacia, Boxelder, etc.
+Working names for Iolera products are based on tree names, such as Acacia, Baobab, Catawba, etc.
 
 <!--
 **iolera/iolera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
