@@ -13,6 +13,9 @@ Such dataset creation is valuable for a number of reasons. It:
 Each product has two repositories, one public and one private.
 The product name is the working name, not necessarily reflecting the market name or model of the product.
 The private repo associated with a public repo has a `-p` appended to its name.
+During development, most information is kept in the private repo until manufactured hardware is released,
+at which time is no longer private. Anyone can buy one for teardown and reverse engineering.
+Relevant files are then moved from the private to public version of the repo.
 
 Public repositories contain:
 
