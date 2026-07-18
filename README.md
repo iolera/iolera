@@ -26,7 +26,7 @@ Private repositories contain:
 
 - Everything else
 
-Working names for Iolera products are based on tree names, such as Acacia, Baobab, Catawba, etc.
+Working names for Iolera products are based on the phonetic alphabet (alpha, bravo, charlie, ...).
 
 <!--
 **iolera/iolera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
